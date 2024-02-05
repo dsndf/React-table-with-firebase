@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "score": 20,
+      "player": {
+        "name": "Kunal",
+        "age": 19,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 40,
+      "player": {
+        "name": "Harry",
+        "age": 34,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Rahul",
+        "age": 32,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Simran",
+        "age": 21,
+        "gender":"female"
+      }
+    },
+    {
+      "score": 20,
+      "player": {
+        "name": "Gaurav",
+        "age": 21,
+        "gender":"male"
+      }
+    },
+    {
+      "score": 21,
+      "player": {
+        "name": "Rose",
+        "age": 20,
+        "gender":"female"
+      }
+    }
+  ]
+}
